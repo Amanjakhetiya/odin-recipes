@@ -1,0 +1,17 @@
+body h1
+{
+    background-color: yellow;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+    text-align: center;
+}
+
+body
+{
+    background-color: chocolate;
+}
+
+body img{
+    text-align: center;
+}
